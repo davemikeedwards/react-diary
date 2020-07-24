@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.headerGrid {
+  height: 90px !important;
+  border-bottom: 1px solid rgb(122, 67, 185) !important;
+  box-shadow: 0px 1px 5px 1px rgb(128, 99, 161) !important;
+  position: sticky !important;
+}
+
+.headerRow {
+  padding-bottom: 0 !important;
+  margin-left: 10px !important;
+}
+
+.headerTitle {
+  color: rgb(157, 58, 223) !important;
+  font-weight: 300 !important;
+  font-family: 'Montserrat' !important;
+  font-size: 35px !important;
+  display: inline !important;
+}
+
+.headerSubTitle {
+  color: rgb(157, 58, 223) !important;
+  font-weight: 300 !important;
+  font-family: 'Montserrat' !important;
+  font-size: 20px !important;
+  display: inline !important;
+  margin-left: 10px !important;
+}

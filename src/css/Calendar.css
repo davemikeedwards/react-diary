@@ -1,0 +1,198 @@
+.calendarArrowBox:hover {
+  cursor: pointer !important;
+}
+
+.calendarArrowBox:hover > .calendarArrow {
+  transform: scale(1.5) !important;
+  color: rgb(157, 58, 223) !important;
+}
+
+.calendarMonth {
+  color: rgba(133, 32, 201) !important;
+  font-size: 16px !important;
+}
+
+.calendarButton {
+  background-color: rgb(157, 58, 223) !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+  color: #fff !important;
+  font-size: 13px !important;
+  padding: 7px !important;
+}
+
+.calendarButtonTwo {
+  background-color: #fff !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+  color: rgba(157, 58, 223) !important;
+  font-size: 13px !important;
+  padding: 7px !important;
+}
+
+.calendarButton:hover {
+  background-color: #fff !important;
+  color: rgb(157, 58, 223) !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+}
+
+.calendarButtonTwo:hover {
+  background-color: rgb(157, 58, 223) !important;
+  color: #fff !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+}
+
+.calendarDropDown {
+  width: 50px !important;
+  height: 29px !important;
+  min-height: 0px !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+  color: rgb(157, 58, 223) !important;
+  padding: 7px !important;
+  background-color: #fff !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+  font-size: 13px !important;
+}
+
+.calendarDropDownTwo {
+  width: 150px !important;
+  height: 29px !important;
+  min-height: 0px !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+  color: rgb(157, 58, 223) !important;
+  padding: 7px !important;
+  background-color: #fff !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+  font-size: 13px !important;
+}
+
+.calendarDropDown:hover {
+  box-shadow: none !important;
+  background-color: rgb(157, 58, 223) !important;
+  color: #fff !important;
+}
+
+.calendarDropDownTwo:hover {
+  box-shadow: none !important;
+  background-color: rgb(157, 58, 223) !important;
+  color: #fff !important;
+}
+
+.calendarDropDownTwo:hover > .text {
+  box-shadow: none !important;
+  background-color: rgb(157, 58, 223) !important;
+  color: #fff !important;
+}
+
+.ui.dropdown > .text:hover {
+  color: #fff !important;
+}
+
+.ui.selection.active.dropdown > .menu {
+  border: 1px solid rgb(157, 58, 223) !important;
+  text-align: center !important;
+  color: rgb(157, 58, 223) !important;
+}
+
+.ui.selection.active.dropdown > .menu > .item {
+  padding: 7px !important;
+  text-align: center !important;
+  font-size: 13px !important;
+  color: rgb(157, 58, 223) !important;
+}
+
+.ui.selection.visible.dropdown > .text:not(.default) {
+  color: #fff !important;
+}
+
+.ui.selection.visible.dropdown {
+  background-color: rgb(157, 58, 223) !important;
+}
+
+.ui.form .field > .selection.dropdown {
+  border: 1px solid rgb(157, 58, 223) !important;
+  text-align: center !important;
+  padding-right: 13px !important;
+  color: rgb(157, 58, 223) !important;
+}
+
+.ui.selection.dropdown {
+  text-align: center !important;
+  font-size: 13px !important;
+}
+
+.ui.selection.dropdown > .menu {
+  scrollbar-width: none !important;
+}
+
+.diaryPencil {
+  float: right !important;
+  color: rgb(157, 58, 223) !important;
+}
+
+.diaryPencil:hover {
+  cursor: pointer;
+}
+
+.modalHeader {
+  background: rgb(157, 58, 223, 0.2) !important;
+  color: rgba(133, 32, 201) !important;
+  height: 56px !important;
+  font-size: 16px !important;
+}
+
+.modalFooter {
+  background: rgb(157, 58, 223, 0.2) !important;
+  height: 56px !important;
+}
+
+.ui.form .field .ui.input input, .ui.form .fields .field .ui.input input {
+  border: none !important;
+  color: #555 !important;
+}
+
+.ui.input {
+  border: 1px solid rgb(157, 58, 223) !important;
+  border-radius: 5px !important;
+}
+
+.searchInput > .ui.input {
+  border: 1px solid rgb(157, 58, 223) !important;
+  border-radius: 5px 5px 0 0 !important;
+}
+
+.ui.form textarea {
+  border: 1px solid rgb(157, 58, 223) !important;
+  border-radius: 5px !important;
+  color: #555 !important;
+}
+
+.ui.form .field > label {
+  color: #555 !important;
+}
+
+.ui.modal > .content {
+  padding-top: 18px !important;
+  padding-bottom: 8px !important;
+}
+
+.selectableCell:hover {
+  cursor: pointer;
+}
+
+.resultsTable {
+  border-radius: 0 !important;
+  width: 100% !important;
+  margin: 0 !important;
+  border: 1px solid rgb(157, 58, 223) !important;
+  border-top: 0 !important;
+}
+
+.searchIcon {
+  color: rgb(133, 32, 201) !important;
+  font-size: 20px !important;
+}
+
+.searchIcon:hover {
+  cursor: pointer;
+}
